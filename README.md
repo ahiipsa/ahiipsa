@@ -1,6 +1,6 @@
 ## Hi, I'm Sergei
 
-Senior Full-stack Engineer, 12 years in the job. Mostly financial products, the last five years in Web3 and DeFi. TypeScript, React, Next.js, Node.js.
+Senior Full-Stack Engineer, 12 years in the job. Mostly financial products, the last five years in Web3 and DeFi. TypeScript, React, Next.js, Node.js.
 
 Based in Yerevan, Armenia, working remote. **Open to work**: senior frontend or full-stack roles.
 
