@@ -4,7 +4,7 @@ Senior Full-stack Engineer, 12 years in the job. Mostly financial products, the 
 
 Based in Yerevan, Armenia, working remote. **Open to work**: senior frontend or full-stack roles.
 
-[LinkedIn](https://www.linkedin.com/in/sergei-karasev-933aa455/) · to.karasev@gmail.com
+[karasev.dev](https://karasev.dev) · [LinkedIn](https://www.linkedin.com/in/sergei-karasev-933aa455/) · to.karasev@gmail.com
 
 ### Projects
 
